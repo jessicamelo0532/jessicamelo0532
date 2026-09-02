@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou a Jéssica Melo! ​🌸​📚​💻​
 
-<!--
-**jessicamelo0532/jessicamelo0532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional com foco na convergência entre **Ciência da Informação**, **Sistemas de Informação** e **Inteligência Artificial**. 
+Apaixonada por transformar dados em conhecimento estruturado e fluxos ágeis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Formação e Especializações
+- **Bacharel em Biblioteconomia** — Universidade Federal do Pará (UFPA)
+- **Graduanda em Sistemas de Informação** — Universidade Federal do Pará (UFPA)
+- **Especialista em Ciências de Dados e Inteligência Artificial** — Centro Universitário Internacional (UNINTER)
+- **Especialista em Gestão da Tecnologia da Informação** — Centro Universitário Internacional (UNINTER)
+
+---
+
+### Áreas de Interesse e Atuação
+- **Gestão da Informação e Governança:** Taxonomia, metadados, indexação semântica e organização de bases de conhecimento.
+- **Ciências de Dados e IA:** Análise exploratória, modelos preditivos, NLP e automações com IA.
+- **Desenvolvimento e Automação:** Desenvolvimento de aplicações, integração de APIs e orquestração de fluxos.
+
+---
+
+### Conecte-se comigo
+[LinkedIn](https://www.linkedin.com/in/jessicamelo0532) |
+[E-mail](jessicamelo0532@gmail.com) |
+[Lattes](http://lattes.cnpq.br/4285202021954042)
