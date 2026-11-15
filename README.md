@@ -23,4 +23,5 @@ Apaixonada por transformar dados em conhecimento estruturado e fluxos ágeis.
 ### Conecte-se comigo
 [LinkedIn](https://www.linkedin.com/in/jessicamelo0532) |
 [E-mail](jessicamelo0532@gmail.com) |
-[Lattes](http://lattes.cnpq.br/4285202021954042)
+[Lattes](http://lattes.cnpq.br/4285202021954042) |
+[Instagram](https://instagram.com/jessica.melojlm)
